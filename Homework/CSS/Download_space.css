@@ -1,0 +1,12 @@
+.Download_space {
+background-color: #e8b968; height: 894px;
+}
+.Right_pic{
+	float: right;
+}
+.Download_space h1 {
+	font-family: Lato Light; font-size: 55pt;
+}
+.Download_space p {
+	font-family: Lato Regular; font-size: 16pt;
+}

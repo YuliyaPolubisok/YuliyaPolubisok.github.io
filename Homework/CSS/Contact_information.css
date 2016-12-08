@@ -1,0 +1,12 @@
+.Contact_information{
+background-color: #7accc8; height: 693px;
+}
+.Contact_information p {
+	font-family: HelveticaNeue Regular;
+}
+.Contact_information ul {
+	list-style-type:none; font-family:HelveticaNeue Bold; font-weight: bold; 
+}
+.Contact_information a {
+	font-size: 12pt; font-style: normal; color: #ffffff; text-decoration:none; text-transform: uppercase;
+}

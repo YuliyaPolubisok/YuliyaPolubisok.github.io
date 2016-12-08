@@ -1,0 +1,9 @@
+.Page_starting{
+background-image: url(../Images/Backgrounds/1background.png); background-repeat: no-repeat; height: 882px; 
+}
+.Page_starting h1 {
+	font-family: Lato Light; font-size: 60pt; color: #ffffff;
+}
+.Page_starting p {
+	font-family: Lato Italic; font-size: 17pt; font-style: italic; color: #d0e7e9;
+}

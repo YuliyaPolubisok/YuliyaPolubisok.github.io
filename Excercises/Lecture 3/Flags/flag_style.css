@@ -1,0 +1,50 @@
+.place_Denmark{
+	width: 180px;
+	height: 100px;
+	position: absolute;
+}
+.pict{
+	background-color: #C60C30;
+}
+.place_Jordan_top{
+	width: 180px;
+	height: 40px;
+	background-color: #000000;
+	position: relative;
+}
+.place_Jordan_middle{
+	width: 180px;
+	height: 40px;
+	background-color: #FFFFFF;
+	position: relative;
+}
+.place_Jordan_bottom{
+	width: 180px;
+	height: 40px;
+	background-color: #00843D;
+	position: relative;
+}
+.place_Jordan_triangle{
+	width: 180px;
+	height: 40px;
+	top: 200px;
+	position: absolute;
+}
+.place_Hungary_top{
+	width: 180px;
+	height: 40px;
+	background-color: red;
+	position: relative;
+}
+.place_Hungary_middle{
+	width: 180px;
+	height: 40px;
+	background-color: white;
+	position: relative;
+}
+.place_Hungary_bottom{
+	width: 180px;
+	height: 40px;
+	background-color: green;
+	position: relative;
+}
