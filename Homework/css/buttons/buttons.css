@@ -1,0 +1,25 @@
+.get_started {
+border-radius: 3px;
+width: 284px;
+height: 74px;
+background-image: url(../../images/buttons/get_started.png);
+background-position: center;
+}
+.download_now {
+border: none;
+background-color: Transparent;
+border-radius: 1px;
+width: 280px;
+height: 68px;
+background-image: url(../../images/buttons/download_now.png);
+background-position: center;
+}
+.try_demo {
+border: none;
+background-color: Transparent;
+border-radius: 1px;
+width: 181px;
+height: 61px;
+background-image: url(../../images/buttons/try_demo.png);
+background-position: center;
+}

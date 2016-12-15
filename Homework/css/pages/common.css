@@ -1,0 +1,27 @@
+body {
+width:1600px;
+}
+.contact_information p, ul {
+	font-size: 14pt; color: #ffffff;
+}
+.download_space p, h1 {
+	color: #ffffff; 
+}
+.feature_ui h4, p {
+	color: #abbcc3;
+}
+.contact_information a, .demo p {
+	font-family: "Lato Regular", Lato, sans-serif;
+}
+.rectangle1, .rectangle2 {
+	background-color: #ffffff;
+    float:left;
+    width: 337px;
+    height: 489px;
+    margin: 13px;
+}
+.rectangle3, .rectangle4 {
+	float: left;
+    width: 337px;
+    height: 346px;
+}
