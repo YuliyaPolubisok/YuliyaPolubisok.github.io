@@ -1,0 +1,57 @@
+.home {
+	background-image: url("../../media/backgrounds/home-background.png");
+	height: 453px;
+	position: relative;
+	animation-name: background-image;
+	animation-duration: 15s;
+	animation-timing-function: linear;
+	animation-iteration-count: infinite;
+	animation-direction: alternate-reverse;
+}
+@keyframes background-image {
+ 0%{
+   background-size: 100%;
+ }
+ 33%{
+   background-size: 125%;
+ }
+ 66%{
+   background-size: 150%;
+ }
+ 100%{
+   background-size: 175%;
+ }
+}
+.home-paragraph {
+	font-size: 18px;
+	color: #cecdcd;
+	width: 60%;
+	padding-top: 3%;
+	margin-left: 20%; 
+}
+.home-heading {
+	padding-top: 6%;
+	width: 100%;
+}
+.home .button {
+	margin-top: 4.5%;
+	margin-left: 44%;
+	width: 125px;
+	height: 40px;
+	line-height: 3;
+}
+.button:hover {
+	box-shadow: inset 0 0 0 5px #97cb6f;
+	background-color: #16a086;
+}
+.arrow-down:after {
+	font-family: FontAwesome;
+    content: "\f13a";
+    font-size: 50px;
+}
+.arrow-go-next-section {
+    text-decoration: none;
+    float: right;
+    margin-top: 3.5%;
+    margin-right: 48%;
+}

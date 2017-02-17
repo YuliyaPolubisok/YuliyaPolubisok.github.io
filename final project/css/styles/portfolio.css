@@ -1,0 +1,72 @@
+.portfolio {
+	height: 680px;
+	position: relative;
+}
+.circle {
+	width: 180px;
+	height: 180px;
+	border-radius: 90px;
+}
+.circle:hover {
+	background-color: #50b392;
+	transform: scale(1.5);
+	transition:all 1s linear;
+	cursor: url(../../media/images/magnifier.jpg), auto;
+}
+.circle-color-1 {
+	background: #00a99d;
+	background-image: url("../../media/images/portfolio/portfolio-item-1.png");
+	background-repeat: no-repeat;
+}
+.circle-color-2 {
+	background: #e7f2dd;
+	background-image: url("../../media/images/portfolio/portfolio-item-5.png");
+	background-repeat: no-repeat;
+}
+.circle-color-4 {
+	background: #f8aeaa;
+	background-image: url("../../media/images/portfolio/portfolio-item-6.png");
+	background-repeat: no-repeat;
+}
+.circle-color-5 {
+	background: #d0d2d3;
+	background-image: url("../../media/images/portfolio/portfolio-item-3.png");
+	background-repeat: no-repeat;
+}
+.circle-color-6 {
+	background: #dbf1fa;
+	background-image: url("../../media/images/portfolio/portfolio-item-4.png");
+	background-repeat: no-repeat;
+}
+.circle-color-7 {
+	background: #ffebb5;
+	background-image: url("../../media/images/portfolio/portfolio-item-2.png");
+	background-repeat: no-repeat;
+}
+.float {
+	float: left;
+	margin-left: 60px;
+	margin-bottom: 30px;
+}
+.space-buttons {
+	margin: 0 0.5%;
+	display: inline-block;
+}
+.nav-button-1 {
+	width: 5%;
+}
+.nav-button-2 {
+	width: 12%;
+}
+.nav-button-3 {
+	width: 16%;
+}
+.nav-button-4 {
+	width: 13%;
+}
+.portfolio-items {
+	margin-top: 5%;
+}
+.content-position {
+	background-position: center;
+}

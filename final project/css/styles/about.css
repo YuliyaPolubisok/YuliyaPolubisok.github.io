@@ -1,0 +1,36 @@
+.about {
+	background-color: #16a086;
+}
+.employee {
+	background-color: #ffffff;
+	height: 420px;
+	width: 220px;
+	display: inline-block;
+	margin-bottom: 7%;
+	overflow: hidden;
+}
+.employee-photo-1 {
+	background-image: url("../../media/images/employee-1.png");
+	background-repeat: no-repeat;
+}
+.employee-photo-2 {
+	background-image: url("../../media/images/employee-2.png");
+	background-repeat: no-repeat;
+}
+.employee-photo-3 {
+	background-image: url("../../media/images/employee-3.png");
+	background-repeat: no-repeat;
+}
+.margin {
+	margin-top: 110%;
+}
+.paragraph-position {
+	margin-top: 10%;
+	margin-left: 5%;
+}
+.space-between-employees-info {
+	margin: 0% 5% 7%;
+}
+.align-left {
+	text-align: left;
+}

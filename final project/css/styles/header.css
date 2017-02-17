@@ -1,0 +1,27 @@
+.header {
+	height: 95px;
+	position: relative;
+}
+.header-navigation {
+	word-spacing: 5px;
+	margin-left: 60%;
+	padding-top: 3%;
+}
+.anchor {	
+	text-decoration: none;
+	display: inline-block;
+	padding: 3%;
+}
+.anchor:hover {
+	background-color: #20DDB2;
+	color: #ffffff;
+}
+.logo {
+	position: relative;
+	top: 25%;
+	left: 4%;
+	float: left;
+	height: 47px;
+	width: 206px;
+	background-image: url("../../media/images/logo.png");
+}

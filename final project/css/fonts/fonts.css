@@ -1,0 +1,50 @@
+@font-face {
+	font-family: LatoBold;
+	src: url("../../fonts/lato/lato-bold/LatoBold.eot");
+	src: url("../../fonts/lato/lato-bold/LatoBold.eot?#iefix") format("embedded-opentype"),
+	url("../../fonts/lato/lato-bold/LatoBold.woff") format("woff"),
+	url("../../fonts/lato/lato-bold/LatoBold.ttf") format("truetype"),
+	url("../../fonts/lato/lato-bold/LatoBold.svg#LatoBold") format("svg");
+	font-style: normal;
+	font-weight: bold;
+}
+@font-face {
+	font-family: LatoRegular;
+	src: url("../../fonts/lato/lato-regular/LatoRegular.eot");
+	src: url("../../fonts/lato/lato-regular/LatoRegular.eot?#iefix") format("embedded-opentype"),
+	url("../../fonts/lato/lato-regular/LatoRegular.woff") format("woff"),
+	url("../../fonts/lato/lato-regular/LatoRegular.ttf") format("truetype"),
+	url("../../fonts/lato/lato-regular/LatoRegular.svg#LatoRegular") format("svg");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: LatoLight;
+	src: url("../../fonts/lato/lato-light/LatoLight.eot");
+	src: url("../../fonts/lato/lato-light/LatoLight.eot?#iefix") format("embedded-opentype"),
+	url("../../fonts/lato/lato-light/LatoLight.woff") format("woff"),
+	url("../../fonts/lato/lato-light/LatoLight.ttf") format("truetype"),
+	url("../../fonts/lato/lato-light/LatoLight.svg#LatoLight") format("svg");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: LatoItalic;
+	src: url("../../fonts/lato/lato-italic/LatoItalic.eot");
+	src: url("../../fonts/lato/lato-italic/LatoItalic.eot?#iefix") format("embedded-opentype"),
+	url("../../fonts/lato/lato-italic/LatoItalic.woff") format("woff"),
+	url("../../fonts/lato/lato-italic/LatoItalic.ttf") format("truetype"),
+	url("../../fonts/lato/lato-italic/LatoItalic.svg#LatoLight") format("svg");
+	font-style: italic;
+	font-weight: normal;
+}
+@font-face {
+	font-family: FontAwesome;
+	src: url("../../fonts/fontawesome/fontawesome.eot");
+	src: url("../../fonts/fontawesome/fontawesome.eot?#iefix") format("embedded-opentype"),
+	url("../../fonts/fontawesome/fontawesome.woff") format("woff"),
+	url("../../fonts/fontawesome/fontawesome.ttf") format("truetype"),
+	url("../../fonts/fontawesome/fontawesome.svg#fontawesome") format("svg");
+	font-style: normal;
+	font-weight: normal;
+}

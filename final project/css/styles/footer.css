@@ -1,0 +1,24 @@
+.footer {
+	background-color: #2d3e50;
+	height: 90px;
+}
+.footer-text {
+	vertical-align: middle;
+	display: inline-block;
+	padding: 37px;
+}
+.arrow-back-to-top {
+    text-decoration: none;
+    background-color: #1bbc9b;
+    float: right;
+    margin-right: 4%;
+    height: 35px; 
+    width: 45px;
+    margin-top: 2.3%;
+    padding-top: 1%;    
+}
+.arrow-up::after {
+    font-family: FontAwesome;
+    content: "\f077";
+    font-size: 20px;
+}

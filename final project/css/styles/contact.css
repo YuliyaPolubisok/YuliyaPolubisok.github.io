@@ -1,0 +1,80 @@
+.contact {
+	background-color: #ecf0f1;
+	height: 500px;
+}
+.contact-info {
+	margin-left: 53%;
+}
+.contact-address {
+	width: 45%;
+	line-height: 1.4;
+}
+.contact-address-title {
+	margin-bottom: 3%;
+}
+.contact-data {
+	margin-top: 4%;
+	margin-bottom: 2%;
+	text-decoration: none;
+}
+.contact-form {
+	float: left;
+	margin-left: 4%;
+	width: 500px;
+	height: 100px;
+}
+.contact-form-style {
+	border: 2px solid;
+	color: #bec3c7;
+}
+.contact-form-name {
+	margin-right: 4%;
+	width: 40%;
+	height: 15%;
+}
+.contact-form-message {
+	width: 90.5%;	
+	height: 150%;
+}
+.contact-button-submit {
+	width: 130px;
+	float: right;
+	margin-right: 4%;	
+}
+.contact-form-spacing {
+	margin-top: 5%;
+}
+textarea, input {
+	outline: none;
+	resize: none;
+	padding: 15px 12px;
+}	
+.address:before {
+	font-family: FontAwesome;
+	content: "\f041";
+	float: left;
+	height: 75px;
+	margin-right: 7px;
+}
+.phone:before {
+	font-family: FontAwesome;
+	content: "\f098";
+}
+.fax:before {
+	font-family: FontAwesome;
+	content: "\f02f";
+}
+.mailto:before {
+	font-family: FontAwesome;
+	content: "\f003";
+}
+input.contact-form-style.invalid {
+	background-image: url('../../media/images/warning.png');   
+    background-repeat: no-repeat; 
+    background-position: 96% 45%;
+}
+input.contact-form-style.valid {
+	background-image: url('../../media/images/valid.png');   
+    background-repeat: no-repeat; 
+    background-position: 96% 45%;
+}
